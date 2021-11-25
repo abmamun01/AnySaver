@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566614014420",
+    "project_id": "anysaver-1b5db",
+    "storage_bucket": "anysaver-1b5db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566614014420:android:dfbb6400f6329f3fe13e41",
+        "android_client_info": {
+          "package_name": "com.nooneprojects.anysaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566614014420-jgv0lb2o31ek0g57a8dqju1m002c19eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQqFZSSbpquC3u8sLXWubdpc7qrwTkzOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566614014420-jgv0lb2o31ek0g57a8dqju1m002c19eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
